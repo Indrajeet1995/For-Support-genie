@@ -49,7 +49,7 @@ class Director(CallCenter):
 
 class Manager(Director):
     """
-    A class definition for the manager who will be the second in chain to
+    A class definition for the manager who will be the secoad in chain to
     answer the call
     """
     def answerCall(self):
